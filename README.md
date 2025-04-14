@@ -25,6 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyaindian&show_icons=true&locale=en&layout=compact" alt="tanyaindian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyaindian&show_icons=true&locale=en" alt="tanyaindian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyaindian&" alt="tanyaindian" /></p>
