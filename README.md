@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript,HTML,CSS,React,Node,MongoDb**
 
-- 📫 How to reach me **tanyaindian24@gmail.com**
+- 📫 How to reach me **tanya.shrvt@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6HUcWxd0/_dJn6liw6-zEh3RAxgCnjA/edit?utm_content=DAE6HUcWxd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6HUcWxd0/_dJn6liw6-zEh3RAxgCnjA/edit?utm_content=DAE6HUcWxd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
